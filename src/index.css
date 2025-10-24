@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos de tremor */
+/* @import "@tremor/react/dist/esm/tremor.css"; */
